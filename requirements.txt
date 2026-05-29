@@ -1,3 +1,7 @@
-pandas
-matplotlib
-scikit-learn
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.6
+plotly==6.1.2
+scikit-learn==1.6.1
+wordcloud==1.9.4
+matplotlib==3.10.3
